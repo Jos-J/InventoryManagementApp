@@ -1,4 +1,4 @@
-# LibraryBookTracker 📚
+# Inventory Management Application 📚
 
 A simple command-line **Library Book Tracker** application built in C++. This project lets users add, view, search, and remove books from a collection stored in a file.
 
